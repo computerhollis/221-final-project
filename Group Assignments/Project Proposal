@@ -15,6 +15,7 @@ Another dataset we plan to use is from the organization Million Dollar Hoods (MD
 The central focus of our project is to analyze the spatial relationship between jails and data centers in Los Angeles County as sites of extraction, with the goal of discovering trends related to disparities in their impacts on surrounding communities. Using GIS mapping and spatial analysis tools, we will examine the geographic proximity of these sites to neighborhoods and explore the overlapping impacts they may have on vulnerable populations.
  
 Specifically, we aim to visualize the following: 
+
 1. Geographic Distribution of Jails and Data Centers: Identify spatial clusters and patterns.
 
 2. Impacts of Data Centers: Create maps and graphs showing neighborhoods near data centers, overlaid with data on power distortions or other environmental effects caused by these facilities. 
