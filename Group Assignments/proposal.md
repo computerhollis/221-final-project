@@ -1,6 +1,6 @@
 # Mapping Extraction: The Spatial Relationship Between Jails and Data Centers In Los Angeles
 
-**By: Amil Hogan, Leila Ullmann, Hollis Wyatt**
+**By: Amil Hogan, Leila Ullmann, Hollis Potts**
 
 Our group project centrally asks what is the spatial relationship between jails and data centers as sites of extraction in Los Angeles County? 
 
