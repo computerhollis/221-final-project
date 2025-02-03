@@ -9,16 +9,15 @@ In response to Chris' feedback on our original proposal, we have modified our re
 Based on data investigation from our team, we will focus on three key variables to look at: Education, Socio-Economic Status,and Environment. We will visualize demographic characteristics to describe the neighborhoods we are speaking of. 
 We will use the follosing data sources:
 
-Education: Census ACS Education Demographic [data](https://data.census.gov/table/ACSDP1Y2023.DP02?q=Education) 
-Socio-Economic Status: Census [data](https://data.census.gov/table/ACSST1Y2023.S0501?q=S0501:%20Selected%20Characteristics%20of%20the%20Native%20and%20Foreign-Born%20Populations)
-Race: ACS Data 2023
+Education: Census ACS Education Demographic [data](https://data.census.gov/table/ACSDP1Y2023.DP02?q=Education)   
+Socio-Economic Status: Census [data](https://data.census.gov/table/ACSST1Y2023.S0501?q=S0501:%20Selected%20Characteristics%20of%20the%20Native%20and%20Foreign-Born%20Populations)  
 Environment: FEMA's National Risk Index [map](https://hazards.fema.gov/nri/) and EPA's EJ Screening [tool](https://www.epa.gov/ejscreen/download-ejscreen-data)
 
 **Team roles:**
 
-Hollis: team repo holder, socio-economic status
-Amil: narrative building for the Jupyter notebook, education
-Leila: slide presentation, environment
+Hollis: team repo holder, socio-economic status  
+Amil: narrative building for the Jupyter notebook, education  
+Leila: slide presentation, environment  
 
 **Status Update:**
 
