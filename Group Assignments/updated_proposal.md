@@ -1,4 +1,4 @@
-# Mapping Extraction: The Spatial Relationship Between Jails and Data Centers In Los Angeles
+# Mapping Extraction in Los Angeles’ Million Dollar Hoods
 
 **By Hollis Potts, Amil Hogan, and Leila Ullmann**
 
